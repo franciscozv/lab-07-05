@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "private": true,
+  "homepage": "https://franciscozv.github.io/lab-07-05",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
